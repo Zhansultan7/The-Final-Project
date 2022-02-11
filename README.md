@@ -13,4 +13,16 @@
     User story #2: As an HR manager i want to have list of relevant applications so i can find worthy candidate. <br />  
 5. Sitemap, Page descriptions
     ![Sitemap](https://user-images.githubusercontent.com/49634484/153659987-7214ad60-3ed7-40a6-a1c0-81b2d3ef4aea.png)
-6. Describe technologies that will be used, describe domain (classes, ERD)
+6. Describe technologies that will be used, describe domain (classes, ERD) <br />
+7. Mockups, Wireframes <br />
+8. Non-functional requirements <br />
+    •The application must work in all modern browsers <br />
+    •The application must be built in React.js <br /> 
+    •The application must be responsive (work well and look good on all screen sizes) <br />
+9. Risks <br />
+    •The problem with competition, there are the same time-tested services <br />
+    •Will be hard to find our target audience <br />
+10. Future iterations <br />
+    •Anti multi account system, which will not let people make more than one account. <br />
+    •Add a system to promote resumes or job vacancies <br />
+    •
