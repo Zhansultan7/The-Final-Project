@@ -6,6 +6,6 @@ Proposal
    •To make the most convenient site that can satisfy both sides, in our case students who are looking for internships and employers who want to hire new interns.
    •Nowadays it is very hard for people without work experience, especially students, to find a job. Our goal is to help new employees and companies find each other.
 3.User personas  
-![Persona 1](C:\Users\zhanl\OneDrive\Рабочий стол\Diploma\Persona 1.png.png)
+![Persona 1](https://user-images.githubusercontent.com/49634484/153609692-82c1cc3c-f7a9-4f5a-b57f-59d3836fcf93.png)
 ![Persona 2](https://user-images.githubusercontent.com/49634484/153608314-7049963a-4d6c-46a8-b80d-4636a1349bc9.png)
 4. 
