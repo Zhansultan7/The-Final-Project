@@ -1,7 +1,7 @@
-Proposal
-1.Alternative / Market research
-  •	We will use google forms in order to gather information from our target audience, which in our case are students of 3-4 years or already university graduates who are looking         for internships and employers who are looking for new interns
-  •	We will be researching our competitors in our field in the public domain to make our product competitive and find new chips for our product and find out when companies start       looking for interns to get our product off to a good start
+Proposal <br />
+1.Alternative / Market research <br />
+  •	We will use google forms in order to gather information from our target audience, which in our case are students of 3-4 years or already university graduates who are looking         for internships and employers who are looking for new interns <br /> 
+  •	We will be researching our competitors in our field in the public domain to make our product competitive and find new chips for our product and find out when companies start       looking for interns to get our product off to a good start <br />
 2.	
    •To make the most convenient site that can satisfy both sides, in our case students who are looking for internships and employers who want to hire new interns.
    •Nowadays it is very hard for people without work experience, especially students, to find a job. Our goal is to help new employees and companies find each other.
