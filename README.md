@@ -15,7 +15,12 @@
     ![Sitemap](https://user-images.githubusercontent.com/49634484/153659987-7214ad60-3ed7-40a6-a1c0-81b2d3ef4aea.png)
 6. Describe technologies that will be used, describe domain (classes, ERD) <br />
 7. Mockups, Wireframes <br />
-8. Non-functional requirements <br />
+![01  Main page](https://user-images.githubusercontent.com/49634484/153752773-c0e850c7-5347-42be-8632-160e842e910f.png)
+![02  Sign up (Employee)](https://user-images.githubusercontent.com/49634484/153752802-0a531499-4fb9-4dd0-a5fa-753b429d7ca8.png)
+![03  Sign up (Company)](https://user-images.githubusercontent.com/49634484/153752803-9d888622-92f3-4ca9-827b-d764bec6875f.png)
+![04  Profile (Employee)](https://user-images.githubusercontent.com/49634484/153752808-6bce63cd-d71a-4d45-9149-cead29526d63.png)
+![05  Profile (Company)](https://user-images.githubusercontent.com/49634484/153752811-a973bf84-643e-4848-a09c-a5d08cf6dc31.png)
+9. Non-functional requirements <br />
     •The application must work in all modern browsers <br />
     •The application must be built in React.js <br /> 
     •The application must be responsive (work well and look good on all screen sizes) <br />
