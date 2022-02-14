@@ -35,7 +35,7 @@
 ![03  Sign up (Company)](https://user-images.githubusercontent.com/49634484/153752803-9d888622-92f3-4ca9-827b-d764bec6875f.png)
 ![04  Profile (Employee)](https://user-images.githubusercontent.com/49634484/153752808-6bce63cd-d71a-4d45-9149-cead29526d63.png)
 ![05  Profile (Company)](https://user-images.githubusercontent.com/49634484/153752811-a973bf84-643e-4848-a09c-a5d08cf6dc31.png)
-<b>8. Non-functional requirements</b> <br />  <br /> 
+<b>8. Non-functional requirements</b> <br />
     •The application must work in all modern browsers <br />
     •The application must be built in React.js <br /> 
     •The application must be responsive (work well and look good on all screen sizes) <br />  <br /> 
