@@ -8,8 +8,8 @@
 <b>3. User personas</b> <br />  
     ![Persona 1](https://user-images.githubusercontent.com/49634484/153609692-82c1cc3c-f7a9-4f5a-b57f-59d3836fcf93.png)
     ![Persona 2](https://user-images.githubusercontent.com/49634484/153608314-7049963a-4d6c-46a8-b80d-4636a1349bc9.png) <br />
-<b>4. User stories</b> <br />  
-    User story #1: As a job seeker, I want to be able to see list of interesting vacancies so I can apply on them and have a job. <br />  
+<b>4. User stories</b>
+    User story #1: As a job seeker, I want to be able to see list of interesting vacancies so I can apply on them and have a job.
     User story #2: As an HR manager i want to have list of relevant applications so i can find worthy candidate. <br />  <br /> 
 <b>5. Sitemap, Page descriptions </b>
     ![Sitemap](https://user-images.githubusercontent.com/49634484/153659987-7214ad60-3ed7-40a6-a1c0-81b2d3ef4aea.png)<br />
