@@ -14,6 +14,21 @@
 5. Sitemap, Page descriptions
     ![Sitemap](https://user-images.githubusercontent.com/49634484/153659987-7214ad60-3ed7-40a6-a1c0-81b2d3ef4aea.png)
 6. Describe technologies that will be used, describe domain (classes, ERD) <br />
+    •import java.io.*; 
+     import javax.servlet.ServletException; 
+     import javax.servlet.http.HttpServlet; 
+     import javax.servlet.http.HttpServletRequest; 
+     import javax.servlet.http.HttpServletResponse; 
+     import payroll.*; 
+     import java.util.*; <br />
+    •Microsoft power BI
+     Qlik sense
+     Get report
+     Google form
+     Full Microsoft pack <br />
+    •Miro
+     Figma
+     Google meet <br />
 7. Mockups, Wireframes <br />
 ![01  Main page](https://user-images.githubusercontent.com/49634484/153752773-c0e850c7-5347-42be-8632-160e842e910f.png)
 ![02  Sign up (Employee)](https://user-images.githubusercontent.com/49634484/153752802-0a531499-4fb9-4dd0-a5fa-753b429d7ca8.png)
