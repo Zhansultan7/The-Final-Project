@@ -30,11 +30,12 @@
      Figma
      Google meet <br />  <br /> 
 <b>7. Mockups, Wireframes</b> <br />
-![01  Main page](https://user-images.githubusercontent.com/49634484/153752773-c0e850c7-5347-42be-8632-160e842e910f.png)
-![02  Sign up (Employee)](https://user-images.githubusercontent.com/49634484/153752802-0a531499-4fb9-4dd0-a5fa-753b429d7ca8.png)
-![03  Sign up (Company)](https://user-images.githubusercontent.com/49634484/153752803-9d888622-92f3-4ca9-827b-d764bec6875f.png)
-![04  Profile (Employee)](https://user-images.githubusercontent.com/49634484/153752808-6bce63cd-d71a-4d45-9149-cead29526d63.png)
-![05  Profile (Company)](https://user-images.githubusercontent.com/49634484/153752811-a973bf84-643e-4848-a09c-a5d08cf6dc31.png)
+![01  Main page](https://user-images.githubusercontent.com/49634484/153825892-f76c6939-ad5e-4c0a-8f2c-4e3433df4ccc.png)
+![02  Sign up (Employee)](https://user-images.githubusercontent.com/49634484/153825897-0269fa11-397a-4a15-8f15-406fb1c7fc38.png)
+![03  Sign up (Company)](https://user-images.githubusercontent.com/49634484/153825901-502eced6-1076-43bf-82a9-1777dbedac83.png)
+![04  Profile (Employee)](https://user-images.githubusercontent.com/49634484/153825905-3825a052-6d09-4c26-94c9-85cab33c5312.png)
+![05  Profile (Company)](https://user-images.githubusercontent.com/49634484/153825916-22b7b865-7ddf-4a3e-82d7-79910577c212.png)
+
 <b>8. Non-functional requirements</b> <br />
     •The application must work in all modern browsers <br />
     •The application must be built in React.js <br /> 
